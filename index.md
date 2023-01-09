@@ -19,9 +19,9 @@ We have lectures 2.10pm-4pm on Mondays, and you will be allocated to a tutorial 
 Lectures and tutorials are both essential to doing well on the course - the lectures provide a broad overview on major issues in the evolution of language, and the tutorials give you with an opportunity to discuss more specific topics in detail with your classmates, guided by your tutor.
 
 ### Arrangements for lectures and tutorials
-Lectures take place *in person* on Mondays, 2.10pm-4pm, in the [Hugh Robson Building Lecture Theatre](https://www.ed.ac.uk/maps/maps?building=0210). 
+Lectures take place on Mondays, 2.10pm-4pm, in the [Hugh Robson Building Lecture Theatre](https://www.ed.ac.uk/maps/maps?building=0210). 
 
-You will be allocated to a tutorial group automatically. Tutorials take place at various times Wednesday to Friday, in person in rooms in the [Dugald Stewart Building](https://www.ed.ac.uk/maps/maps?building=0283) and 7 [George Square](https://www.ed.ac.uk/maps/maps?building=0209).
+You will be allocated to a tutorial group automatically. Tutorials take place at various times Wednesday to Friday, in rooms in the [Dugald Stewart Building](https://www.ed.ac.uk/maps/maps?building=0283) and [7 George Square](https://www.ed.ac.uk/maps/maps?building=0209).
 
 Hopefully this goes without saying, but *do not come to lectures or tutorials if you are unwell or think you might be!* If you are unwell you can participate in lectures remotely, so you won't miss out and you'll be protecting the rest of us. Instructions on how to access live lecture streams/recordings are on the course page on Learn. If I am isolating or unwell (but still well enough lecture) we'll do the lecture remotely. There is no remote option for tutorials (but still, don't turn up if you are unwell).
 
