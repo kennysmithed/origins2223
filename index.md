@@ -31,13 +31,36 @@ Hopefully this goes without saying, but *do not come to lectures or tutorials if
 
 The course is assessed via 2 essays, due on 2nd March and 13th April. Full details will be provided shortly.
 
+## Quizzes
+
+We will be using Top Hat for weekly reading quizzes (to allow you check you understand basic concepts in the readings, and also to flag up anything to me I need to cover in the lecture) and in-class questions (as a tool to check understanding or promote discussion).
+
+[Instructions for signing up to Top Hat via EASE are here](https://www.ed.ac.uk/information-services/learning-technology/electronic-voting-system/students/account). To get to the content for this course, you will need the join code, which is on Learn (to prevent randoms signing up).
+
+### Reading Quizzes
+
+In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes on Top Hat (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at 1pm on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at 1pm on Monday of week 2, 1 hour before the lecture). To sign up to Top Hat, see the information above. To access the reading quizzes:
+
+- [Log into Top Hat](https://app-ca.tophat.com/) and select the course “Origins and Evolution of Language 2022/2023”
+- Navigate to the ‘Assigned’ tab.
+- Select the relevant quiz and complete all items
+
+*The quiz is not assessed and does not contribute to your mark for the course*. It's just intended to help you learn stuff, which is what the course is for. As for as possible I have made it so your responses are anonymous, so you don;t even have to be worried about being sheepish if you get one wrong. The only place this isn't the case is the free-form comments - for some reason I can't make those anonymous, so don't fill them with obscenities, I'll know it's you.
+
+### In-class quizzes
+
+I will also use Top Hat to get you to answer multiple-choice questions in class. To answer those questions:
+- [Log into Top Hat](https://app-ca.tophat.com/) and select the course “Origins and Evolution of Language 2022/2023”
+- Navigate to the ‘Classroom’ tab
+- Answer questions there as they appear
+
 ## Course Materials
 
 Course content will appear here as we work through the course - I will put materials up as far in advance as possible, to enable you to read ahead where you can.
 
 Each week there will be two sets of readings: one associated with the lecture, and another for the tutorial.  
 
-Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures – we will assume you have done in class, and you’ll have to talk about them. In order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a quiz to be completed before each class - arrangements for accessing the quizzes TBC.
+Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures – we will assume you have done in class, and you’ll have to talk about them. In order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a quiz to be completed before each class - instructions above.
 
 For the tutorials you will be asked to read one or more journal papers/book chapters and then turn up prepared to discuss these in tutorials - tutorials give you the opportunity to clarify points you didn't understand with your classmates, but also discuss interesting points, strengths and weaknesses of the papers. For some weeks these tutorials will be organised as debates, where you are asked to read papers making conflicting claims and then debate the merits of the two approaches with your classmates.
 

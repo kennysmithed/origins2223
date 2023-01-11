@@ -3,9 +3,9 @@ title: Week 3 pre-lecture reading
 description: Animal Cognition and Communication
 ---
 
+*As usual, read this blog, do the Fitch reading, and then take the quiz on Top Hat to test your understanding.*
 
 ## About the reading
-
 
 This week's main reading, **Chapter 4 of Fitch (2010)** (pages 143-202), surveys the various cognitive abilities and communication systems on offer in the animal world ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)). In particular, Fitch discusses experimental evidence, and how the differences and similarities between humans and other animals can shed light on the evolution of language.
 

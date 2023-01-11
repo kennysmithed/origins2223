@@ -5,6 +5,8 @@ description: Human evolution
 
 This week we're reading Chapter 7 (pages 250-293) of Fitch (2010) ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)). 
 
+*As usual, read this blog, do the Fitch reading, and then take the quiz on Top Hat to test your understanding.*
+
 ## About the reading
 
 Chapter 7 tells the (as of 2010) story of human evolution, focusing on our trajectory since our last common ancestor with chimpanzees. And, as with most evolutionary stories, the tale from early australopithecines to modern *Homo sapiens* is a messy one: far from being a steady, obvious, unbroken chain, human evolution is littered with false starts and dead ends, with most of our species' history having been spent alongside a variety of closely-related hominids. If you want to see some pictures or a slightly more user-friendly graphical depiction of the human family tree, check out [The Smithsonian's interactive family tree](http://humanorigins.si.edu/evidence/human-family-tree).

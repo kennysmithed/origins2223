@@ -3,6 +3,8 @@ title: Week 2 reading
 description: Introduction to evolutionary theory
 ---
 
+*Once you have worked through the reading, don’t forget to do the pre-lecture quiz – instructions are on the main page, under "Quizzes", and also on Learn.*
+
 ## Overview
 
 There is quite a lot of reading for week 2, in order to get you up to speed on the basics of evolutionary theory - I will provide a very quick summary of some key points in the lecture, and also talk about how these ideas might apply to the evolution of language. In addition to reading the text here, I want you to read chapters 1 and 2 (pages 13-72) of Fitch (2010).  [Tecumseh Fitch](http://homepage.univie.ac.at/tecumseh.fitch/) is a biologist and cognitive scientist based in Vienna, and has been a leading figure in evolutionary linguistics for the last 20 years or so. We will be using readings from his book throughout the course. It provides an excellent introduction of evolutionary linguistics – it’s very much Fitch’s personal perspective on the evolution of language, and while I don’t agree with all of it, his evidence-based approach to asking evolutionary questions about language has to be the correct one. The books is available electronically [via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466) (I use the Cambridge University Press Ebooks link), if you want a physical copy the book is on reserve in the HUB section of the main library, or you could buy a copy.
