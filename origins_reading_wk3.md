@@ -3,7 +3,6 @@ title: Week 3 pre-lecture reading
 description: Animal Cognition and Communication
 ---
 
-## Overview
 
 ## About the reading
 
@@ -29,7 +28,6 @@ These impressive abilities are not only found in species which are closely relat
 <!-- [embed]https://www.youtube.com/watch?v=s2IBayVsbz8[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/AVaITA7eBZE"
-frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
@@ -39,7 +37,6 @@ Humans and other animals are also flexible vocal learners. One of the most enter
 <!-- [embed]https://www.youtube.com/watch?v=mSB71jNq-yQ[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/mSB71jNq-yQ"
-frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
@@ -50,7 +47,6 @@ In contrast to the rich internal cognitive world of animals, Fitch argues that t
 <!-- [embed]https://www.youtube.com/watch?v=rozh349EZWA[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/rozh349EZWA"
-frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
@@ -59,7 +55,6 @@ Vervet monkeys use three distinct alarm calls to refer to different predators (s
 <!-- [embed]https://www.youtube.com/watch?v=q8ZG8Dpc8mM[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/q8ZG8Dpc8mM"
-frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
@@ -68,7 +63,6 @@ We also find amazing communicative abilities in some rather surprising organisms
 <!-- [embed]https://www.youtube.com/watch?v=-7ijI-g4jHg[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/-7ijI-g4jHg"
-frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
@@ -77,7 +71,6 @@ Kanzi, a bonobo (one of two extant species of chimpanzee, the other being the be
 <!-- [embed]https://www.youtube.com/watch?v=wRM7vTrIIis[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/wRM7vTrIIis"
-frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 

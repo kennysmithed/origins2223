@@ -58,7 +58,7 @@ No lecture reading and no tutorial this week, so a gentle start - but there is l
 
 ### Week 4 (6th February): Social learning and cumulative cultural evolution
 
-- Lecture reading
+- [Lecture pre-reading](origins_reading_wk4.md)
 - Lecture slides
 - Tutorial
 
