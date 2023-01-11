@@ -1,9 +1,10 @@
 
 This is the webpage for the Honours/MSc course Origins and Evolution of Language, running in academic year 2022/2023 (semester 2). I will add links to materials (readings, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye on announcements.
 
-Note that this course has evolved over the years – the course in something like its current form was originally written by Kenny Smith, based on a preceding course taught by James R Hurford, and contributions and modifications have been made by James Winters, Marieke Schouwstra, Christine Cuskley and Matt Spike.
+Note that this course has evolved over the years – the course in something like its current form was originally written by Kenny Smith, based on a preceding course created by [Jim Hurford](http://www.lel.ed.ac.uk/~jim/), and contributions and modifications have been made by James Winters, Marieke Schouwstra, Christine Cuskley and Matt Spike.
 
 ## Course summary
+
 
 
 ## The teaching team
@@ -64,7 +65,7 @@ No lecture reading and no tutorial this week, so a gentle start - but there is l
 
 ### Week 5 (13th February): Evolution of speech, vocal learning
 
-- Lecture reading
+- [Lecture pre-reading](origins_reading_wk5.md)
 - Lecture slides
 - Tutorial
 

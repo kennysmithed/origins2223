@@ -57,6 +57,6 @@ record of research*, 81 (2-3), 211-35 PMID: 19943744.
 
 ## Re-use
 
-*This blog post was originally written by James Winters, with edits and updates Kenny Smith, Christine Cuskley, and Matt Spike.*
+*This blog post was originally written by James Winters.*
 
 All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
