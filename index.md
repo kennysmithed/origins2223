@@ -42,11 +42,11 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 ### Week 1 (commencing 16th January): Introduction
 
 No lecture reading and no tutorial this week, so a gentle start - but there is lots to read in subsequent weeks, so make a start!
-- Lecture slides - to appear
+- Lecture slides
 
 ### Week 2 (23rd January): Natural selection, adaptation, and the evolution of language
 
-- Lecture reading
+- [Lecture reading](origins_reading_wk2.md) (to be done before the lecture)
 - Lecture slides
 - Tutorial
 
