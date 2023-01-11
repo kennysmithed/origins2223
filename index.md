@@ -46,13 +46,13 @@ No lecture reading and no tutorial this week, so a gentle start - but there is l
 
 ### Week 2 (23rd January): Natural selection, adaptation, and the evolution of language
 
-- [Lecture reading](origins_reading_wk2.md) (to be done before the lecture)
+- [Lecture pre-reading](origins_reading_wk2.md)
 - Lecture slides
 - Tutorial
 
 ### Week 3 (30th January): Intention and structure in animal communication
 
-- Lecture reading
+- [Lecture pre-reading](origins_reading_wk3.md)
 - Lecture slides
 - Tutorial
 
