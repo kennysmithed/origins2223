@@ -5,7 +5,7 @@ Note that this course has evolved over the years – the course in something lik
 
 ## Course summary
 
-
+We will review current theories which attempt to explain how and why human language evolved, covering both the biological evolution of the human capacity for language, and cultural evolution of languages themselves. Modern evolutionary linguistics is a highly interdisciplinary field, and we will touch on the basics of evolutionary biology, animal communication and animal cognition, fieldwork on emerging sign languages, and computational models and experimental studies of language evolution pioneered here in Edinburgh, among other topics. No prior knowledge of these areas is assumed.
 
 ## The teaching team
 
@@ -20,6 +20,7 @@ We have lectures 2.10pm-4pm on Mondays, and you will be allocated to a tutorial 
 Lectures and tutorials are both essential to doing well on the course - the lectures provide a broad overview on major issues in the evolution of language, and the tutorials give you with an opportunity to discuss more specific topics in detail with your classmates, guided by your tutor.
 
 ### Arrangements for lectures and tutorials
+
 Lectures take place on Mondays, 2.10pm-4pm, in the [Hugh Robson Building Lecture Theatre](https://www.ed.ac.uk/maps/maps?building=0210). 
 
 You will be allocated to a tutorial group automatically. Tutorials take place at various times Wednesday to Friday, in rooms in the [Dugald Stewart Building](https://www.ed.ac.uk/maps/maps?building=0283) and [7 George Square](https://www.ed.ac.uk/maps/maps?building=0209).
