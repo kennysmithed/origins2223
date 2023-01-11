@@ -21,7 +21,6 @@ The clip below shows a chimpanzee using stone tools to crack open nuts, demonstr
 <!-- [embed]https://www.youtube.com/watch?v=2N34Fcn3J00[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/2N34Fcn3J00"
-frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
@@ -98,7 +97,7 @@ In addition to these general conclusions, there are three points Fitch raises th
 **Descent and Convergence:** The comparative method is a useful tool for elucidating cases of homology and analogy in cognitive and communicative abilities. Employing this method can tell us what features we share with other species because they were present in our last common ancestor (homology, or similarity through descent from a common ancestor) and under what environmental conditions do certain features evolve (analogies, produced by convergent evolution).
 
 ## Reference
-Fitch, W. T. (2010). **The Evolution of Language**. Cambridge: Cambridge University Press.
+Fitch, W. T. (2010). *The Evolution of Language*. Cambridge: Cambridge University Press.
 
 ## Re-use
 
