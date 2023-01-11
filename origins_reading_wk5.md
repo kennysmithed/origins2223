@@ -10,7 +10,7 @@ The bulk of this chapter is on the position of the larynx in humans and other an
 As described in the reading, most animals, and very young humans, have a larynx that is positioned high in the throat, which allows them to engage the larynx directly with the velum, forming a nice tight seal which prevents food/liquid being inhaled. In many other animals, and young human infants, the larynx engages with the velum and nasal cavity, making it possible to breathe through the nose (red arrows) while swallowing (blue arrows). 
 
 ![Breathing while swallowing](images/outil_bleu21_img02.jpg)  \
-(Image from http://thebrain.mcgill.ca/flash/capsules/outil_bleu21.html.)
+*Image from http://thebrain.mcgill.ca/flash/capsules/outil_bleu21.html.)*
 
 The resting position of the adult human larynx is lower in the throat, and too far down to allow the larynx to engage with the velum in this way. 
 
@@ -25,7 +25,7 @@ allowfullscreen></iframe>
 It has long been thought that the risks of the descended larynx -- the danger of choking on food or liquid -- must be outweighed by some advantage, perhaps related to language?
 
 ![Vocal tract](images//human_vocal_tract.png)  \
-Annotated diagram of the adult human vocal tract - useful for terminology. From [https://www.researchgate.net/figure/Anatomical-structure-of-human-vocal-system-Adapted-from-How-language-works-Indiana_fig3_259333765](https://www.researchgate.net/figure/Anatomical-structure-of-human-vocal-system-Adapted-from-How-language-works-Indiana_fig3_259333765)
+*Annotated diagram of the adult human vocal tract - useful for terminology. From [https://www.researchgate.net/figure/Anatomical-structure-of-human-vocal-system-Adapted-from-How-language-works-Indiana_fig3_259333765](https://www.researchgate.net/figure/Anatomical-structure-of-human-vocal-system-Adapted-from-How-language-works-Indiana_fig3_259333765)*
 
 One possibility is that the lower position of the larynx also drags the tongue root down into the pharynx, which gives us a two-tube vocal tract: we can manipulate the size of the oral cavity with the tongue tip, and independently manipulate the pharyngeal tube by pushing the tongue backwards and forwards -- this is really nicely illustrated in [the MRI images on this page, under section 2 "Vowel Articulation"](http://www.phon.ucl.ac.uk/courses/spsci/iss/week5.php). The idea is that this two-chamber vocal tract gives access to a wider range of formant frequencies, boosting the range of distinctive speech sounds we can produce.
 
