@@ -1,5 +1,5 @@
 
-This is the webpage for the Honours/MSc course Origins and Evolution of Language, running in academic year 2022/2023 (semester 2). I will add links to materials (readings, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye on announcements.
+This is the webpage for the Honours/MSc course Origins and Evolution of Language, running in academic year 2022/2023 (semester 2). I will add links to materials (readings, tutorial exercises, lecture slides etc) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye on announcements.
 
 Note that this course has evolved over the years – the course in something like its current form was originally written by Kenny Smith, based on a preceding course created by [Jim Hurford](http://www.lel.ed.ac.uk/~jim/), and contributions and modifications have been made by [James Winters](https://j-winters.github.io), [Marieke Schouwstra](https://mariekeschouwstra.github.io), [Christine Cuskley](https://ccuskley.github.io) and [Matt Spike](https://www.pyowhack.com).
 
