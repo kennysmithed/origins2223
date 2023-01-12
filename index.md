@@ -66,15 +66,15 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 
 ### Week 1 (commencing 16th January): Introduction
 
-- No pre-lecture reading this week, but optionally you can read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. But there is lots to read in subsequent weeks, so if you are looking for something to do make a start on that!
-- Lecture slides
+- No pre-lecture reading this week, but optionally you can read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. There is lots to read in subsequent weeks, so if you are looking for something to do then make a start on that!
+- Lecture slides will appear here
 - No tutorial this week
 
 ### Week 2 (23rd January): Natural selection, adaptation, and the evolution of language
 
 - [Lecture pre-reading](origins_reading_wk2.md)
 - Lecture slides
-- Tutorial
+- [Tutorial reading and brief](origins_tutorial_wk2.md)
 
 ### Week 3 (30th January): Intention and structure in animal communication
 
