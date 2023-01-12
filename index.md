@@ -66,8 +66,7 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 
 ### Week 1 (commencing 16th January): Introduction
 
-No lecture reading and no tutorial this week, so a gentle start - but there is lots to read in subsequent weeks, so make a start!
-- No pre-lecture reading this week, but optionally you can read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. 
+- No pre-lecture reading this week, but optionally you can read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. But there is lots to read in subsequent weeks, so if you are looking for something to do make a start on that!
 - Lecture slides
 - No tutorial this week
 
