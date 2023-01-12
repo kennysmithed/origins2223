@@ -100,7 +100,7 @@ No classes in flexible learning week. Note that you have an assignment due the f
 
 ### Week 6 (27th February)
 
-No classes this week - the first assignment is due in the Thursday of this week (2nd March).
+No classes this week - the first assignment is due on the Thursday of this week (2nd March).
 
 ### Week 7 (6th March): Evolution of social cognition
 
