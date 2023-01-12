@@ -17,7 +17,7 @@ Tutorials will be run by three excellent tutors: Lauren Fletcher, Aislinn Keogh,
 
 We have lectures 2.10pm-4pm on Mondays, and you will be allocated to a tutorial group which will meet for 1 hour later in the week (Wednesday, Thursday or Friday). **There is no tutorial in week 1** - tutorials start in week 2 (week commencing 23rd January). 
 
-Lectures and tutorials are both essential to doing well on the course - the lectures provide a broad overview on major issues in the evolution of language, and the tutorials give you with an opportunity to discuss more specific topics in detail with your classmates, guided by your tutor.
+Lectures and tutorials are both essential to doing well on the course - the lectures provide a broad overview of major issues in the evolution of language, and the tutorials give you the opportunity to discuss more specific topics in detail with your classmates, guided by your tutor.
 
 ### Arrangements for lectures and tutorials
 
@@ -42,10 +42,10 @@ We will be using Top Hat for weekly reading quizzes (to allow you check you unde
 In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes on Top Hat (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at 1pm on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at 1pm on Monday of week 2, 1 hour before the lecture). To sign up to Top Hat, see the information above. To access the reading quizzes:
 
 - [Log into Top Hat](https://app-ca.tophat.com/) and select the course “Origins and Evolution of Language 2022/2023”
-- Navigate to the ‘Assigned’ tab.
+- Navigate to the "Assigned" tab.
 - Select the relevant quiz and complete all items
 
-*The quiz is not assessed and does not contribute to your mark for the course*. It's just intended to help you learn stuff, which is what the course is for. As for as possible I have made it so your responses are anonymous, so you don;t even have to be worried about being sheepish if you get one wrong. The only place this isn't the case is the free-form comments - for some reason I can't make those anonymous, so don't fill them with obscenities, I'll know it's you.
+**The quiz is not assessed and does not contribute to your mark for the course**. It's just intended to help you learn stuff, which is what the course is for. As for as possible I have made it so your responses are anonymous, so you don;t even have to be worried about being sheepish if you get one wrong. The only place this isn't the case is the free-form comments - for some reason I can't make those anonymous, so don't fill them with obscenities, I'll know it's you.
 
 ### In-class quizzes
 
