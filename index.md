@@ -45,13 +45,13 @@ In order to encourage you to complete the reading and to allow you (and me) to c
 - Navigate to the "Assigned" tab.
 - Select the relevant quiz and complete all items
 
-**The quiz is not assessed and does not contribute to your mark for the course**. It's just intended to help you learn stuff, which is what the course is for. As for as possible I have made it so your responses are anonymous, so you don;t even have to be worried about being sheepish if you get one wrong. The only place this isn't the case is the free-form comments - for some reason I can't make those anonymous, so don't fill them with obscenities, I'll know it's you.
+**The quiz is not assessed and does not contribute to your mark for the course**. It's just intended to help you learn stuff, which is what the course is for. As far as possible I have made it so your responses are anonymous, so you don't even have to be worried about being sheepish if you get one wrong. The only place this isn't the case is the free-form comments - for some reason I can't make those anonymous, so don't fill them with obscenities, I'll know it's you.
 
 ### In-class quizzes
 
 I will also use Top Hat to get you to answer multiple-choice questions in class. To answer those questions:
 - [Log into Top Hat](https://app-ca.tophat.com/) and select the course “Origins and Evolution of Language 2022/2023”
-- Navigate to the ‘Classroom’ tab
+- Navigate to the "Classroom" tab
 - Answer questions there as they appear
 
 ## Course Materials
@@ -60,14 +60,16 @@ Course content will appear here as we work through the course - I will put mater
 
 Each week there will be two sets of readings: one associated with the lecture, and another for the tutorial.  
 
-Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures – we will assume you have done in class, and you’ll have to talk about them. In order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a quiz to be completed before each class - instructions above.
+Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures – I will assume you have done in class, and you’ll have to talk about them. As mentioned above, in order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a Top Hat quiz to be completed before each class.
 
-For the tutorials you will be asked to read one or more journal papers/book chapters and then turn up prepared to discuss these in tutorials - tutorials give you the opportunity to clarify points you didn't understand with your classmates, but also discuss interesting points, strengths and weaknesses of the papers. For some weeks these tutorials will be organised as debates, where you are asked to read papers making conflicting claims and then debate the merits of the two approaches with your classmates.
+For the tutorials you will be asked to read one or more journal papers/book chapters and then turn up prepared to discuss these in tutorials. Tutorials give you the opportunity to clarify points you didn't understand with your classmates, but also discuss interesting points, strengths and weaknesses of the papers, and get some practice critically evaluating research in language evolution. For some weeks these tutorials will be organised as debates, where you are asked to read papers making conflicting claims and then debate the merits of the two approaches with your classmates.
 
 ### Week 1 (commencing 16th January): Introduction
 
 No lecture reading and no tutorial this week, so a gentle start - but there is lots to read in subsequent weeks, so make a start!
+- No pre-lecture reading this week, but optionally you can read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. 
 - Lecture slides
+- No tutorial this week
 
 ### Week 2 (23rd January): Natural selection, adaptation, and the evolution of language
 
