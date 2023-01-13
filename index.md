@@ -74,13 +74,13 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 
 - [Lecture pre-reading](origins_reading_wk2.md)
 - Lecture slides
-- [Tutorial reading and brief](origins_tutorial_wk2.md)
+- [Tutorial reading and instructions](origins_tutorial_wk2.md)
 
 ### Week 3 (30th January): Intention and structure in animal communication
 
 - [Lecture pre-reading](origins_reading_wk3.md)
 - Lecture slides
-- [Tutorial reading and brief](origins_tutorial_wk3.md)
+- [Tutorial reading and instructions](origins_tutorial_wk3.md)
 
 ### Week 4 (6th February): Social learning and cumulative cultural evolution
 
