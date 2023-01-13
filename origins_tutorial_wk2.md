@@ -20,9 +20,9 @@ I have suggested some issues you could consider when you are reading it and disc
 
 ## References
 
-Pinker, S. (2003). Language as an adaptation to the cognitive niche. In M. Christiansen & S. Kirby (Eds.), *Language Evolution* (pp. 16-37). Oxford: Oxford University Press.
+Pinker, S. (2003). Language as an adaptation to the cognitive niche. In M. Christiansen & S. Kirby (Eds.), *Language Evolution* (pp. 16-37). Oxford: Oxford University Press. [Link](https://stevenpinker.com/files/pinker/files/language_evolution.pdf)
 
-NB. the link at the top of the page goes to a copy of the chapter that Pinker has put online – if you want to chase up a reference you can also access the whole book, including the references, [via Discover Ed](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_miscellaneous_37697167).
+NB. the link goes to a copy of the chapter that Pinker has put online – if you want to chase up a reference you can also access the whole book, including the references, [via Discover Ed](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_miscellaneous_37697167).
 
 ## Re-use
 
