@@ -54,6 +54,21 @@ I will also use Top Hat to get you to answer multiple-choice questions in class.
 - Navigate to the "Classroom" tab
 - Answer questions there as they appear
 
+## Strike dates
+
+Unfortunately the course will be disrupted by strike action taken by teaching staff seeking better pay and conditions - see [the UCU pages](https://www.ucu.org.uk/rising) for details. There will be no classes on strike days. Strike dates are:
+
+- Week 3: Wednesday 
+- Week 4: Thursday, Friday
+- Week 5: Tuesday, Wednesday, Thursday
+- (Flexible learning week: Tuesday, Wednesday, Thursday)
+- Week 6: Monday (but no lecture planned anyway), Tuesday, Wednesday, Thursday
+- Week 7: No strikes
+- Week 8: Thursday, Friday
+- Week 9: Monday, Tuesday, Wednesday
+- Week 10: No strikes
+
+
 ## Course Materials
 
 Course content will appear here as we work through the course - I will put materials up as far in advance as possible, to enable you to read ahead where you can.
@@ -86,7 +101,7 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 
 - [Lecture pre-reading](origins_reading_wk4.md)
 - Lecture slides
-- Tutorial
+- [Tutorial reading and instructions](origins_tutorial_wk4.md)
 
 ### Week 5 (13th February): Evolution of speech, vocal learning
 
