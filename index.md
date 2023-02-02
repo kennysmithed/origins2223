@@ -62,7 +62,7 @@ Unfortunately the course will be disrupted by strike action taken by teaching st
 - Week 4: Thursday, Friday
 - Week 5: Tuesday, Wednesday, Thursday
 - (Flexible learning week: Tuesday, Wednesday, Thursday)
-- Week 6: Monday (but no lecture planned anyway), Tuesday, Wednesday, Thursday
+- Week 6: Monday, Tuesday, Wednesday, Thursday (but no classes this week anyway)
 - Week 7: No strikes
 - Week 8: Thursday, Friday
 - Week 9: Monday, Tuesday, Wednesday
@@ -92,19 +92,19 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 - [Tutorial reading and instructions](origins_tutorial_wk2.md)
 
 ### Week 3 (30th January): Intention and structure in animal communication
-
+Due to strike action, no Wednesday tutorials this week.
 - [Lecture pre-reading](origins_reading_wk3.md)
 - [Lecture slides](slides/origins_lecture_wk3.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk3.md)
 
 ### Week 4 (6th February): Social learning and cumulative cultural evolution
-
+Due to strike action, no Thursday or Friday tutorials this week.
 - [Lecture pre-reading](origins_reading_wk4.md)
 - Lecture slides
 - [Tutorial reading and instructions](origins_tutorial_wk4.md)
 
 ### Week 5 (13th February): Evolution of speech, vocal learning
-
+Due to strike action, no Wednesday or Thursday tutorials this week.
 - [Lecture pre-reading](origins_reading_wk5.md)
 - Lecture slides
 - Tutorial
@@ -124,13 +124,13 @@ No classes this week - the first assignment is due on the Thursday of this week 
 - Tutorial
 
 ### Week 8 (13th March): Cultural evolution of language
-
+Due to strike action, no Thursday or Friday tutorials this week.
 - Lecture reading
 - Lecture slides
 - Tutorial
 
 ### Week 9 (20th March): Sign language as a window into language origins
-
+Due to strike action, no lecture or Wednesday tutorial this week.
 - Lecture reading
 - Lecture slides
 - Tutorial
