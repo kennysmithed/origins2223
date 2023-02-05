@@ -18,13 +18,8 @@ As described in the reading, most animals, and very young humans, have a larynx 
 
 The resting position of the adult human larynx is lower in the throat, and too far down to allow the larynx to engage with the velum in this way. 
 
-The larynx moves to its lower position early in development (around age 3 months), with a second descent to an even lower position occurring during puberty in males only (which turns out to be informative about possible evolutionary functions for the low position of the larynx in humans, see below). This low larynx position increases (at least hypothetically) the risk of choking -- every time you swallow, the stuff you are swallowing has to pass over the top of your windpipe and into the oesophagus, the epiglottis pulls down over the opening to the windpipe to cover the opening, as shown quite nicely in this animation:
+The larynx moves to its lower position early in development (around age 3 months), with a second descent to an even lower position occurring during puberty in males only (which turns out to be informative about possible evolutionary functions for the low position of the larynx in humans, see below). This low larynx position increases (at least hypothetically) the risk of choking -- every time you swallow, the stuff you are swallowing has to pass over the top of your windpipe and into the oesophagus, the epiglottis pulls down over the opening to the windpipe to cover the opening, as shown quite nicely in [this animation](https://www.youtube.com/watch?v=UNwXoW7z24E).
 
-<!-- [embed]https://www.youtube.com/watch?v=UNwXoW7z24E[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/UNwXoW7z24E"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
 
 It has long been thought that the risks of the descended larynx -- the danger of choking on food or liquid -- must be outweighed by some advantage, perhaps related to language?
 
@@ -33,14 +28,7 @@ It has long been thought that the risks of the descended larynx -- the danger of
 
 One possibility is that the lower position of the larynx also drags the tongue root down into the pharynx, which gives us a two-tube vocal tract: we can manipulate the size of the oral cavity with the tongue tip, and independently manipulate the pharyngeal tube by pushing the tongue backwards and forwards -- this is really nicely illustrated in [the MRI images on this page, under section 2 "Vowel Articulation"](http://www.phon.ucl.ac.uk/courses/spsci/iss/week5.php). The idea is that this two-chamber vocal tract gives access to a wider range of formant frequencies, boosting the range of distinctive speech sounds we can produce.
 
-However, as explained in section 8.4 of the Fitch reading, it turns out that the low position of the larynx/tongue root in humans isn't actually very unusual. Firstly, many other mammals (including e.g. dogs) can dynamically reconfigure their vocal tract during vocalisation -- they pull their larynx low in the throat while vocalising, giving them (temporarily) a two-tube vocal tract very similar in configuration to ours. Second, it turns out that many other species (e.g. koalas, big cats, deer) have a *permanent* low larynx position, giving them a two-tube vocal tract similar to humans -- you can see the low resting position of the larynx (big lump in the throat), and also the fact that these animals pull it even lower when vocalising, in this video of a vocalising red deer (courtesy of Tecumseh Fitch).
-
-
-<!-- [embed]https://www.youtube.com/watch?v=xJxfTyJNp_o[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/xJxfTyJNp_o"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+However, as explained in section 8.4 of the Fitch reading, it turns out that the low position of the larynx/tongue root in humans isn't actually very unusual. Firstly, many other mammals (including e.g. dogs) can dynamically reconfigure their vocal tract during vocalisation -- they pull their larynx low in the throat while vocalising, giving them (temporarily) a two-tube vocal tract very similar in configuration to ours. Second, it turns out that many other species (e.g. koalas, big cats, deer) have a *permanent* low larynx position, giving them a two-tube vocal tract similar to humans -- you can see the low resting position of the larynx (big lump in the throat), and also the fact that these animals pull it even lower when vocalising, in [this video of a vocalising red deer](https://www.youtube.com/watch?v=xJxfTyJNp_o) (courtesy of Tecumseh Fitch).
 
 There are two consequences of this. Firstly, since many mammals can reconfigure their vocal tract while vocalising, previous attempts to figure out the position of the larynx/tongue root in fossil hominids are rather pointless -- even if we were able to infer a high resting position, there would still be the possibility that the vocal tract was reconfigured during vocalisation. Second, since a (permanently or temporarily) descended larynx/tongue root is seen in species that don't have language or even complex vocalisations (e.g. deer, big cats -- they basically just roar, which I think we can all agree is pretty spectacular but not language), there must be some other pressure that explains the convergent evolution of the descended larynx in humans and these other species.
 
