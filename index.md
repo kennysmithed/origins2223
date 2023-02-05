@@ -100,7 +100,7 @@ Due to strike action, no Wednesday tutorials this week.
 ### Week 4 (6th February): Social learning and cumulative cultural evolution
 Due to strike action, no Thursday or Friday tutorials this week.
 - [Lecture pre-reading](origins_reading_wk4.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk4.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk4.md)
 
 ### Week 5 (13th February): Evolution of speech, vocal learning
