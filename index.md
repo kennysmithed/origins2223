@@ -29,7 +29,7 @@ Hopefully this goes without saying, but *do not come to lectures or tutorials if
 
 ## Assessment
 
-The course is assessed via 2 essays, due on 2nd March and 13th April. Full details are provided in [the assignment brief](OriginsAssignmentBrief2223.pdf).
+The course is assessed via 2 essays, due on 2nd March and 13th April. Full details are provided in [the assignment brief](assessment/OriginsAssignmentBrief2223.pdf) and [FAQ](assessment/origins_assignment_faq.md).
 
 ## Quizzes
 
