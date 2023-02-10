@@ -5,7 +5,7 @@ description: The evolution of speech
 
 *As usual, read this blog, do the Fitch reading, and then take the quiz on Top Hat to test your understanding.*
 
-This week we're reading Chapter 8 (pages 297-337) of Fitch (2010) ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)). This week's lecture will be on the evolution of speech, the default (but not the only) human modality for language. The lecture will focus on the evolution of the mechanisms underlying speech and vocal learning, and how vocal learning sets up the self-organisation of contrastive systems of speech sounds: the reading provides relevant background information on the physical apparatus behind speech (mainly the vocal tract).
+This week we're reading Chapter 8 (pages 297-337) of Fitch (2010) ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)). The theme for this week is the learning of speech and grammar. The lecture will focus on the evolution of the mechanisms underlying speech and vocal learning, and the comparative psychology of grammar learning (which might give us some insights into the evolution of the human capacities in that domain): the reading provides relevant background information on the physical apparatus behind speech (mainly the vocal tract).
 
 ## About the reading
 
