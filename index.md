@@ -106,7 +106,7 @@ Due to strike action, no Thursday or Friday tutorials this week.
 ### Week 5 (13th February): Evolution of speech, vocal learning
 Due to strike action, no Wednesday or Thursday tutorials this week.
 - [Lecture pre-reading](origins_reading_wk5.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk5.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk5.md)
 
 ### Flexible learning week (20th February)
