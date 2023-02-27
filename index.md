@@ -119,7 +119,7 @@ No classes this week - the first assignment is due on the Thursday of this week 
 
 ### Week 7 (6th March): Evolution of social cognition
 
-- Lecture reading
+- [Lecture pre-reading](origins_reading_wk7.md)
 - Lecture slides
 - Tutorial
 
