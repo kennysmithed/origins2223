@@ -121,7 +121,7 @@ No classes this week - the first assignment is due on the Thursday of this week 
 
 - [Lecture pre-reading](origins_reading_wk7.md)
 - Lecture slides
-- Tutorial
+- [Tutorial reading and instructions](origins_tutorial_wk7.md)
 
 ### Week 8 (13th March): Cultural evolution of language
 Due to strike action, no Thursday or Friday tutorials this week.
