@@ -25,9 +25,9 @@ Secondly, it can be that the mental state representation contains a mental state
 
 ## Reading
 
-Woensdregt, M., & Smith, K. (2017). Pragmatics and language evolution. In M. Aronoff et al. (Eds.), <i>Oxford Research Encyclopedia of Linguistics</i>. Oxford: Oxford University Press. ([PDF](papers/woensdregt_2017_pragmatics.pdf))
+[Woensdregt, M., & Smith, K. (2017). Pragmatics and language evolution. In M. Aronoff et al. (Eds.), <i>Oxford Research Encyclopedia of Linguistics</i>. Oxford: Oxford University Press.](papers/woensdregt_2017_pragmatics.pdf))
 
-## References
+## Additional references
 
 Apperly, I. A., & Butterfill, S. A. (2009). Do humans have two systems to track beliefs and belief-like states? <i>Psychological Review, 116</i>, 953-970.
 
