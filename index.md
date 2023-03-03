@@ -120,12 +120,12 @@ No classes this week - the first assignment is due on the Thursday of this week 
 ### Week 7 (6th March): Evolution of social cognition
 
 - [Lecture pre-reading](origins_reading_wk7.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk7.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk7.md)
 
 ### Week 8 (13th March): Cultural evolution of language
 Due to strike action, no Thursday or Friday tutorials this week.
-- Lecture reading
+- [Lecture pre-reading](origins_reading_wk8.md)
 - Lecture slides
 - Tutorial
 
