@@ -127,7 +127,7 @@ No classes this week - the first assignment is due on the Thursday of this week 
 Due to strike action, no Thursday or Friday tutorials this week.
 - [Lecture pre-reading](origins_reading_wk8.md)
 - Lecture slides
-- Tutorial
+- [Tutorial reading and instructions](origins_tutorial_wk8.md)
 
 ### Week 9 (20th March): Sign language as a window into language origins
 Due to strike action, no lecture or Wednesday tutorial this week.
