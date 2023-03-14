@@ -10,7 +10,7 @@ In this lecture I’ll discuss how a symbolic, phonemic, compositional language 
 I’d like you to read two short journal articles: [Kirby, Cornish & Smith (2008)](http://www.lel.ed.ac.uk/~kenny/publications/kirby_08_cumulative.pdf), which was our original paper on iterated artificial language learning (you may well already have read it, we are pleased with it so set it as reading all over the place), and [Smith (2022)](https://doi.org/10.1177/09637214211068127), a short review article summarising the key ideas in this literature. If you’d like some fun videos to watch, you can check out the Horizon episode “Why do we talk?” – the whole thing used to be on YouTube but has now been removed, so you can check it out on Learn. Jump to 50:27 to see a mocked-up (slightly inaccurate) for-TV re-enactment of Experiment 2 from our 2008 paper, and jump back to 36:50 for a similar experiment run in zebra finches by [Dr Olga Fehér](https://sites.google.com/site/olcifeher/).  Or you can see me (and Suilin Lavelle) banging on about cultural evolution (and beavers, for reasons that now escape me) in [an online lecture on YouTube](https://www.youtube.com/playlist?list=PLKuMaHOvHA4or3BrLYeoUk43ip7GBaaMv) we filmed back in the day.
 
 
-References
+## References
 
 [Kirby, S., Cornish, H., & Smith, K. (2008). Cumulative cultural evolution in the laboratory: an experimental approach to the origins of structure in human language. Proceedings of the National Academy of Sciences, USA, 105, 10681-10686.](http://www.lel.ed.ac.uk/~kenny/publications/kirby_08_cumulative.pdf)
 

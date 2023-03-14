@@ -118,7 +118,6 @@ No classes in flexible learning week. Note that you have an assignment due the f
 No classes this week - the first assignment is due on the Thursday of this week (2nd March).
 
 ### Week 7 (6th March): Evolution of social cognition
-
 - [Lecture pre-reading](origins_reading_wk7.md)
 - [Lecture slides](slides/origins_lecture_wk7.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk7.md)
@@ -130,14 +129,13 @@ Due to strike action, no Thursday or Friday tutorials this week.
 - [Tutorial reading and instructions](origins_tutorial_wk8.md)
 
 ### Week 9 (20th March): Sign language as a window into language origins
-Due to strike action, no lecture or Wednesday tutorial this week.
+Due to strike action, no lecture or Wednesday tutorial this week. Thursday and Friday tutorials will run.
 - Lecture reading
 - Lecture slides
-- Tutorial
+- [Tutorial reading and instructions]
 
 ### Week 10 (27th March): Gene-culture co-evolution
-
-- Lecture reading
+- [Lecture pre-reading](origins_reading_wk10.md)
 - Lecture slides
 - Tutorial
 
