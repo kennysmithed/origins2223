@@ -17,7 +17,7 @@ You will need to be on the University network to access the Senghas paper via th
 
 Team 1: [Senghas, A. (2003). Intergenerational influence and ontogenetic development in the emergence of spatial grammar in Nicaraguan Sign Language. <i>Cognitive Development, 18,</i> 511-531.](https://doi.org/10.1016/j.cogdev.2003.09.006) 
 
-Team 2: [Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., & Kirby, S. (2021). The emergence of systematic argument distinctions in artificial sign languages. Journal of Language Evolution, 6, 77-98.](https://doi.org/10.1093/jole/lzab002)
+Team 2: [Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., & Kirby, S. (2021). The emergence of systematic argument distinctions in artificial sign languages. <i>Journal of Language Evolution, 6,</i> 77-98.](https://doi.org/10.1093/jole/lzab002)
 
 
 
