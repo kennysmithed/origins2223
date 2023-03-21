@@ -131,7 +131,6 @@ Due to strike action, no Thursday or Friday tutorials this week.
 ### Week 9 (20th March): Sign language as a window into language origins
 Due to strike action, no lecture or Wednesday tutorial this week. Thursday and Friday tutorials will run.
 - [Lecture pre-reading](origins_reading_wk9.md)
-- Lecture slides
 - [Tutorial reading and instructions](origins_tutorial_wk9.md)
 
 ### Week 10 (27th March): Gene-culture co-evolution
