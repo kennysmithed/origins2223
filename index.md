@@ -136,7 +136,7 @@ Due to strike action, no lecture or Wednesday tutorial this week. Thursday and F
 ### Week 10 (27th March): Gene-culture co-evolution
 - [Lecture pre-reading](origins_reading_wk10.md)
 - [Lecture slides](slides/origins_lecture_wk10.pdf)
-- Tutorial
+- [Tutorial reading and instructions](origins_tutorial_wk10.md)
 
 
 ## Re-use
